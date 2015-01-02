@@ -2,7 +2,7 @@
 #define __EXAMPLE_FUNCTIONS_H__
 
 struct gtw_data {
-    int some_data;
+    char buf[1024];
 };
 
 int  gtw_prepare(int argc, char ** argv);

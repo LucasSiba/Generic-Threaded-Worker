@@ -1,3 +1,5 @@
+generic-threaded-worker
+
 # Object files
 *.o
 *.ko
